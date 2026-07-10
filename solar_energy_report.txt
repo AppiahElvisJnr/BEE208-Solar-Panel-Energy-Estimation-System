@@ -1,0 +1,10 @@
+SOLAR ENERGY REPORT
+==============================
+System Name: School ICT Lab Solar Backup
+Panel Wattage: 400 W
+Number of Panels: 6
+Total Panel Capacity: 2400 W
+Sunlight Hours: 5.5
+Efficiency: 80%
+Daily Energy Output: 10560.00 Wh
+Classification: High Solar Energy Output
