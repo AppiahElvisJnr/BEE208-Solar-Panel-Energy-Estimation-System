@@ -23,7 +23,7 @@
 |-----|--------------|--------------|
 | 1 | Appiah Elvis Jnr         | 01240056B  |
 | 2 | Amegbleto Doe Tony       | 01243173B  |
-| 3 | Nkansah Yaw Agyei Tannor | 01244841B  |
+| 3 | Nkansah Yaw Agyei Tannor | 01243841B  |
 | 4 | Fianko Collins Okyere    | 01245114B  |
 | 5 | Elvis Acquah             | 01244477B  |
 | 6 | Quist Basil Jasper       | 01242345B  |
