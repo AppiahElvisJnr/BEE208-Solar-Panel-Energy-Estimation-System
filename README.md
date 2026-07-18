@@ -231,7 +231,7 @@ Possible enhancements include:
 |-----|--------------|--------------|------|--------------|
 | 1 |Appiah Elvis Jnr |01240056B  | Project Leader | Coordinated the project, supervised task allocation, reviewed progress, and ensured timely completion. |
 | 2 |Amegbleto Doe Tony  |01243173B | Algorithm Developer | Designed and documented the project algorithm. |
-| 3 |Nkansah Yaw Agyei Tannor  |01244841B  | Pseudocode Developer | Developed and documented the project pseudocode. |
+| 3 |Nkansah Yaw Agyei Tannor  |01243841B  | Pseudocode Developer | Developed and documented the project pseudocode. |
 | 4 |Fianko Collins Okyere  |01245114B | Flowchart Designer | Designed the system flowchart and verified the program logic. |
 | 5 |Elvis Acquah   |01244477B  | C++ Programmer | Implemented the SolarPanel class, calculations, and program logic. |
 | 6 |Quist Basil Jasper  |01242345B  | C++ Programmer | Assisted in coding, debugging, input validation, and file handling. |
